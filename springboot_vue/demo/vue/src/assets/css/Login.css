@@ -1,0 +1,17 @@
+.login-container {
+    height: 50vh;
+    width: 60vh;
+    background-color: rgb(232 231 219 / 25%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.el-button:hover{
+    box-shadow: 0 5px 10px rgba(129, 129, 129, 0.3);
+}
