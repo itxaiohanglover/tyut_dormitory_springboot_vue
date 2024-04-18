@@ -1,7 +1,8 @@
 /springboot_vue/demo/vue/node_modules
 /springboot_vue/demo/vue/dist
 /springboot_vue/demo/springboot/src/main/resources/application-dev.yml
-/springboot_vue/demo/springboot/ArcFace64.dat
+# /springboot_vue/demo/springboot/ArcFace64.dat
+/springboot_vue/demo/springboot/target
 # Compiled class file
 *.class
 
@@ -15,7 +16,7 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
+# *.jar
 *.war
 *.nar
 *.ear
